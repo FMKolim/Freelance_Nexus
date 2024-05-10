@@ -1,0 +1,20 @@
+.reminder-box {
+  position: fixed;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  width: 300px;
+  background-color: #fff;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+  background: #3e1c15;
+  color: white;
+}
+
+.reminder-message {
+  margin: 0;
+  font-size: 16px;
+}

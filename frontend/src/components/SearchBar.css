@@ -1,0 +1,31 @@
+.searchbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.input-field {
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+.input-field input {
+    padding-right: 30px;
+    height: 40px;
+    width: 1300px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    padding: 10px 10px 10px 10px;
+}
+
+#FaSearch {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+

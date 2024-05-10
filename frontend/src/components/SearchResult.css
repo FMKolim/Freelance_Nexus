@@ -1,0 +1,11 @@
+.search-result {
+
+    padding: 5px 20px;
+
+}
+
+.search-result:hover {
+
+    background-color: rgb(211, 183, 183);
+    cursor: pointer;
+}

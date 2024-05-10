@@ -1,0 +1,85 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.loginbox {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #907953;
+    height: 600px;
+    width: 400px;
+    margin: 30px auto; 
+    color: white;
+    border-radius: 7px;
+    margin-bottom: 75px;
+
+}
+
+.loginbox h1 {
+
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.loginbox input {
+
+    position: relative;
+    height: 50px;
+    width: 100%;
+    margin: 10px;
+    border: none;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, .3);
+    border-radius: 25px;
+    font-size: 13px;
+    color: #54391f;
+    padding: 20px;
+    font-weight: 500;
+
+}
+
+.loginbox button {
+
+    width: 100%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    margin: 10px;
+    box-shadow: 0 0 6px black;
+    cursor: pointer;
+    font-size: 12px;
+    margin-top: -2px;
+    background: #e5d7b0;
+
+}
+
+.loginbox .registerlink {
+
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.loginbox .registerlink a {
+
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+
+.loginbox .registerlink a:hover {
+
+    text-decoration: underline;
+    cursor: pointer;
+
+}

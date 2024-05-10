@@ -1,0 +1,166 @@
+.AddPostBox {
+
+    background: #907953;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    height: 900px;
+    margin-bottom: 200px;
+    border-radius: 25px;
+}
+
+.Adtitle input{
+
+    position: relative;
+    height: 50px;
+    width: 97%;
+    margin: 10px;
+    border: none;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, .3);
+    border-radius: 25px;
+    font-size: 18px;
+    color: #54391f;
+    padding: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
+
+.Addesc textarea {
+    position: relative;
+    height: 300px;
+    margin: 10px;
+    width: 97%;
+    border: none;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, .3);
+    border-radius: 25px;
+    font-size: 18px;
+    color: #54391f;
+    padding: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    margin-left: 20px;
+    display: block;
+    resize: none;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.Adpay input{
+
+    position: relative;
+    height: 50px;
+    width: 97%;
+    margin: 10px;
+    border: none;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, .3);
+    border-radius: 25px;
+    font-size: 18px;
+    color: #54391f;
+    padding: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
+
+.Adtags select {
+    position: relative;
+    height: 65px;
+    width: 97%;
+    margin: 10px;
+    border: none;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, .3);
+    border-radius: 25px;
+    font-size: 18px;
+    color: #54391f;
+    padding: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.Adtags button {
+
+    margin-left: 1100px;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    box-shadow: 0 0 6px black;
+    cursor: pointer;
+    background: #e5d7b0;
+    height: 30px;
+    width: 70px;
+
+
+}
+
+.SelectedTags {
+    position: relative;
+    margin: 10px;
+    width: 97%;
+    border: none;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, .3);
+    border-radius: 25px;
+    font-size: 18px;
+    color: #54391f;
+    background-color: white;
+    padding: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
+
+.SelectedTags ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.SelectedTags li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.SelectedTags li:last-child {
+    margin-bottom: 0;
+}
+
+.submitbutton button{
+
+    width: 90%;
+    margin-left: 60px;
+    margin-top: 20px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    box-shadow: 0 0 6px black;
+    cursor: pointer;
+    background: #e5d7b0;
+    font-size: 20px;    
+
+
+}
+
+.delete-button {
+    width: 100px;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    box-shadow: 0 0 6px black;
+    cursor: pointer;
+    font-size: 12px;
+    background: #e5d7b0;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+

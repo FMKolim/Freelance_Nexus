@@ -1,0 +1,23 @@
+.Footer_Tab {
+
+    background: #3e1c15;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    color: white;
+
+}
+  
+.Footer_Column {
+    flex: 1;
+    margin-right: 30px; 
+    margin-left: 30px; 
+    margin-top: 15px;
+}
+  
+.Footer_Image {
+    max-width: 50%;
+    height: auto; 
+}
+  
