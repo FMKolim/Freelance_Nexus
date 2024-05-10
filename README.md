@@ -22,19 +22,3 @@ The application will then open in your browser, to terminate input "Ctrl + C" si
 
 
 To run all unit test cases, navigate to backendserver folder. Once there input "py .\manage.py test", all 26 tests will automatically be ran and its output displayed on the terminal.
-
-The super user information for django servers is:
-
-Username - ec20490@qmul.ac.uk
-Password - freelancenexus
-
-There were a handful of accounts that were made including:
-
-Email - ziggs@gmail.com
-Password - chinaone
-
-Email - darius@gmail.com
-Password - chinaone
-
-Email - trinity@gmail.com
-Password - chinaone
